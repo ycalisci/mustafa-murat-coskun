@@ -1,0 +1,25 @@
+{
+  "name": "mustafa-murat-coskun",
+  "version": "1.0.0",
+  "description": "Bu bir deneme projesidir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "murat": "echo'Benim adım murat'",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "Yusuf Çalişci",
+  "license": "ISC",
+  "dependencies": {
+    "simple-is": "^0.2.0"
+  },
+  "repository": {
+    "type":"git",
+    "url":"https://github.com/ycalisci/mustafa-murat-coskun.git"
+    
+  }
+}
